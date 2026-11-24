@@ -13,7 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <main id="main" className="mx-auto max-w-5xl px-4 py-10">{children}</main>
       <footer className="border-t border-line py-8 text-sm text-muted"><div className="mx-auto flex max-w-5xl flex-wrap justify-between gap-3 px-4">
         <span>MIT licensed · data from the GitHub REST API</span>
-        <span className="flex gap-4"><a className="hover:text-fg" href="https://github.com/your-username/firstissue-radar">GitHub repository</a><a className="hover:text-fg" href="/docs">Documentation</a></span>
+        <span className="flex gap-4"><a className="hover:text-fg" href="https://github.com/Sheikh-Ayyan-Iftikhar/firstissue-radar">GitHub repository</a><a className="hover:text-fg" href="/docs">Documentation</a></span>
       </div></footer>
     </body></html>
   );

@@ -28,5 +28,11 @@ Language filtering uses GitHub's `language:` qualifier (the repository's primary
 ## Roadmap
 Repository detail panel (stats, CONTRIBUTING link), CONTRIBUTING/CODE_OF_CONDUCT/SECURITY files, issue and PR templates, screenshots.
 
+
+## Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening a pull request.
+
 ## License
 MIT
+
